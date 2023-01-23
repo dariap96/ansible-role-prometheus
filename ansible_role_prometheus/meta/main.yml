@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: ansible_role_prometheus
   namespace: acme
-  author: Anna Sheludchenko
+  author: Daria
   description: Prometheus role for Ubuntu
   company: ITMO Univeristy
 
